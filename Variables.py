@@ -4,4 +4,4 @@
 
 Sentence = input("Enter the sentence you wanted reversed:")
 # [Start:end:step]
-print(Sentence [::-2])
+print(Sentence [::-2]) # prints output to screen with every 2nd letter in reverse order [-2]
